@@ -37,10 +37,8 @@ Insurance-Sales-Dashboard/
 │   ├── Fact_Premium_Payments.zip
 │   └── Fact_Claims.zip
 │
-└── docs/
-    ├── data_model.md
-    ├── dax_measures.md
-    └── report_pages.md
+└── documentation/
+    └── 📊 Dokumentacja raportu.docx
 ```
 
 ### `report/`
@@ -61,9 +59,9 @@ Dane zostały wygenerowane z wykorzystaniem AI i przedstawiają fikcyjny scenari
 
 Tabele wymiarów zapisano jako pliki CSV, natomiast większe tabele faktów zostały skompresowane do formatu ZIP ze względu na limity rozmiaru plików na GitHub.
 
-### `docs/`
+### `documentation/`
 
-Folder zawiera dokumentację projektu:
+Folder zawiera plik z dokumentacją projektu, która zawiera:
 
 * opis modelu danych,
 * opis stron raportu,
@@ -115,4 +113,4 @@ Możliwe kierunki dalszego rozwoju projektu:
 
 ---
 
-> ✨ Dziękuję za odwiedzenie repozytorium! Ten projekt jest częścią mojej drogi do świata profesjonalnej analizy danych. Zachęcam do kontaktu przez [LinkedIn][https://www.linkedin.com/in/patryk-dziebowski/)].
+> ✨ Dziękuję za odwiedzenie repozytorium! Ten projekt jest częścią mojej drogi do świata profesjonalnej analizy danych. Zachęcam do kontaktu przez LinkedIn:[https://www.linkedin.com/in/patryk-dziebowski/)].
