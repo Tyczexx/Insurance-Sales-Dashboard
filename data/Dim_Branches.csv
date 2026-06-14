@@ -1,0 +1,421 @@
+Branch ID,Branch Name,City,Voivodeship,Region,Branch Type,Opening Date
+1,Oddział 001,Bielsko-Biała,śląskie,Południe,Partner Point,2002-09-24
+2,Oddział 002,Piotrków Trybunalski,łódzkie,Centrum,Agency,2015-09-20
+3,Oddział 003,Rzeszów,podkarpackie,Południe,Agency,2011-03-07
+4,Oddział 004,Nowy Sącz,małopolskie,Południe,Broker Office,2003-01-08
+5,Oddział 005,Gliwice,śląskie,Południe,Agency,2017-03-31
+6,Oddział 006,Zielona Góra,lubuskie,Zachód,Direct Sales Office,2005-04-21
+7,Oddział 007,Tarnów,małopolskie,Południe,Broker Office,2013-04-11
+8,Oddział 008,Koszalin,zachodniopomorskie,Zachód,Broker Office,2004-09-06
+9,Oddział 009,Gorzów Wielkopolski,lubuskie,Zachód,Broker Office,2014-01-19
+10,Oddział 010,Rzeszów,podkarpackie,Południe,Agency,2002-08-02
+11,Oddział 011,Pabianice,łódzkie,Centrum,Agency,2019-08-20
+12,Oddział 012,Krosno,podkarpackie,Południe,Agency,2005-05-22
+13,Oddział 013,Lublin,lubelskie,Wschód,Partner Point,2003-06-16
+14,Oddział 014,Białystok,podlaskie,Północ,Broker Office,2022-12-19
+15,Oddział 015,Konin,wielkopolskie,Zachód,Agency,2018-10-12
+16,Oddział 016,Opole,opolskie,Południowy Zachód,Agency,2023-11-08
+17,Oddział 017,Wrocław,dolnośląskie,Południowy Zachód,Agency,2015-09-28
+18,Oddział 018,Nowy Sącz,małopolskie,Południe,Partner Point,2007-12-18
+19,Oddział 019,Bydgoszcz,kujawsko-pomorskie,Centrum,Broker Office,2009-11-30
+20,Oddział 020,Włocławek,kujawsko-pomorskie,Centrum,Agency,2009-01-25
+21,Oddział 021,Zielona Góra,lubuskie,Zachód,Agency,2001-04-09
+22,Oddział 022,Krosno,podkarpackie,Południe,Broker Office,2007-11-26
+23,Oddział 023,Nowy Sącz,małopolskie,Południe,Broker Office,2022-10-26
+24,Oddział 024,Ełk,warmińsko-mazurskie,Północ,Broker Office,2019-06-28
+25,Oddział 025,Tarnów,małopolskie,Południe,Broker Office,2002-03-25
+26,Oddział 026,Bielsko-Biała,śląskie,Południe,Broker Office,2018-06-29
+27,Oddział 027,Zielona Góra,lubuskie,Zachód,Agency,2003-06-18
+28,Oddział 028,Suwałki,podlaskie,Północ,Broker Office,2000-06-08
+29,Oddział 029,Ełk,warmińsko-mazurskie,Północ,Broker Office,2010-03-24
+30,Oddział 030,Sopot,pomorskie,Północ,Agency,2009-10-19
+31,Oddział 031,Łódź,łódzkie,Centrum,Agency,2019-02-12
+32,Oddział 032,Wrocław,dolnośląskie,Południowy Zachód,Agency,2024-04-04
+33,Oddział 033,Bydgoszcz,kujawsko-pomorskie,Centrum,Direct Sales Office,2005-09-25
+34,Oddział 034,Opole,opolskie,Południowy Zachód,Agency,2009-03-14
+35,Oddział 035,Warszawa,mazowieckie,Centrum,Broker Office,2019-10-31
+36,Oddział 036,Kraków,małopolskie,Południe,Agency,2021-03-04
+37,Oddział 037,Tarnów,małopolskie,Południe,Direct Sales Office,2015-11-09
+38,Oddział 038,Włocławek,kujawsko-pomorskie,Centrum,Agency,2016-10-06
+39,Oddział 039,Piła,wielkopolskie,Zachód,Direct Sales Office,2014-04-04
+40,Oddział 040,Wrocław,dolnośląskie,Południowy Zachód,Agency,2015-06-26
+41,Oddział 041,Konin,wielkopolskie,Zachód,Partner Point,2008-09-30
+42,Oddział 042,Kędzierzyn-Koźle,opolskie,Południowy Zachód,Broker Office,2012-12-18
+43,Oddział 043,Pabianice,łódzkie,Centrum,Agency,2012-10-14
+44,Oddział 044,Gliwice,śląskie,Południe,Agency,2008-10-06
+45,Oddział 045,Poznań,wielkopolskie,Zachód,Partner Point,2017-09-01
+46,Oddział 046,Radom,mazowieckie,Centrum,Direct Sales Office,2010-03-26
+47,Oddział 047,Łomża,podlaskie,Północ,Agency,2002-02-13
+48,Oddział 048,Toruń,kujawsko-pomorskie,Centrum,Agency,2013-07-12
+49,Oddział 049,Koszalin,zachodniopomorskie,Zachód,Direct Sales Office,2003-03-18
+50,Oddział 050,Elbląg,warmińsko-mazurskie,Północ,Agency,2015-06-04
+51,Oddział 051,Siedlce,mazowieckie,Centrum,Broker Office,2022-12-04
+52,Oddział 052,Gorzów Wielkopolski,lubuskie,Zachód,Agency,2014-04-16
+53,Oddział 053,Rzeszów,podkarpackie,Południe,Partner Point,2003-04-22
+54,Oddział 054,Koszalin,zachodniopomorskie,Zachód,Agency,2022-07-13
+55,Oddział 055,Konin,wielkopolskie,Zachód,Agency,2007-01-07
+56,Oddział 056,Ełk,warmińsko-mazurskie,Północ,Agency,2018-05-25
+57,Oddział 057,Kalisz,wielkopolskie,Zachód,Broker Office,2013-08-09
+58,Oddział 058,Krosno,podkarpackie,Południe,Agency,2001-01-17
+59,Oddział 059,Elbląg,warmińsko-mazurskie,Północ,Partner Point,2001-12-11
+60,Oddział 060,Kraków,małopolskie,Południe,Direct Sales Office,2016-10-01
+61,Oddział 061,Piotrków Trybunalski,łódzkie,Centrum,Agency,2016-10-05
+62,Oddział 062,Sopot,pomorskie,Północ,Direct Sales Office,2009-07-10
+63,Oddział 063,Poznań,wielkopolskie,Zachód,Agency,2010-02-21
+64,Oddział 064,Lublin,lubelskie,Wschód,Broker Office,2005-11-12
+65,Oddział 065,Zielona Góra,lubuskie,Zachód,Agency,2013-10-23
+66,Oddział 066,Jelenia Góra,dolnośląskie,Południowy Zachód,Agency,2005-05-10
+67,Oddział 067,Kalisz,wielkopolskie,Zachód,Partner Point,2006-11-14
+68,Oddział 068,Olsztyn,warmińsko-mazurskie,Północ,Agency,2012-09-14
+69,Oddział 069,Ełk,warmińsko-mazurskie,Północ,Direct Sales Office,2006-07-11
+70,Oddział 070,Elbląg,warmińsko-mazurskie,Północ,Broker Office,2018-09-12
+71,Oddział 071,Kołobrzeg,zachodniopomorskie,Zachód,Agency,2008-04-01
+72,Oddział 072,Konin,wielkopolskie,Zachód,Direct Sales Office,2010-09-09
+73,Oddział 073,Szczecin,zachodniopomorskie,Zachód,Broker Office,2012-11-22
+74,Oddział 074,Bydgoszcz,kujawsko-pomorskie,Centrum,Direct Sales Office,2003-12-28
+75,Oddział 075,Poznań,wielkopolskie,Zachód,Agency,2020-04-28
+76,Oddział 076,Gdańsk,pomorskie,Północ,Broker Office,2001-02-12
+77,Oddział 077,Nowy Sącz,małopolskie,Południe,Agency,2018-08-20
+78,Oddział 078,Częstochowa,śląskie,Południe,Agency,2009-03-07
+79,Oddział 079,Koszalin,zachodniopomorskie,Zachód,Agency,2016-03-16
+80,Oddział 080,Białystok,podlaskie,Północ,Agency,2014-08-29
+81,Oddział 081,Kędzierzyn-Koźle,opolskie,Południowy Zachód,Agency,2008-07-22
+82,Oddział 082,Kołobrzeg,zachodniopomorskie,Zachód,Agency,2014-09-13
+83,Oddział 083,Koszalin,zachodniopomorskie,Zachód,Direct Sales Office,2000-10-06
+84,Oddział 084,Piła,wielkopolskie,Zachód,Agency,2012-12-03
+85,Oddział 085,Ostrowiec Świętokrzyski,świętokrzyskie,Południe,Broker Office,2010-08-02
+86,Oddział 086,Opole,opolskie,Południowy Zachód,Broker Office,2003-02-26
+87,Oddział 087,Płock,mazowieckie,Centrum,Partner Point,2004-11-29
+88,Oddział 088,Nowy Sącz,małopolskie,Południe,Direct Sales Office,2013-07-13
+89,Oddział 089,Bielsko-Biała,śląskie,Południe,Agency,2006-05-25
+90,Oddział 090,Zielona Góra,lubuskie,Zachód,Broker Office,2012-05-03
+91,Oddział 091,Toruń,kujawsko-pomorskie,Centrum,Broker Office,2000-05-23
+92,Oddział 092,Przemyśl,podkarpackie,Południe,Agency,2017-01-20
+93,Oddział 093,Opole,opolskie,Południowy Zachód,Partner Point,2000-08-13
+94,Oddział 094,Kalisz,wielkopolskie,Zachód,Agency,2016-03-22
+95,Oddział 095,Suwałki,podlaskie,Północ,Agency,2011-09-24
+96,Oddział 096,Pabianice,łódzkie,Centrum,Agency,2017-11-30
+97,Oddział 097,Kędzierzyn-Koźle,opolskie,Południowy Zachód,Agency,2017-06-13
+98,Oddział 098,Sopot,pomorskie,Północ,Agency,2014-08-07
+99,Oddział 099,Ostrowiec Świętokrzyski,świętokrzyskie,Południe,Direct Sales Office,2024-03-20
+100,Oddział 100,Elbląg,warmińsko-mazurskie,Północ,Agency,2020-05-12
+101,Oddział 101,Koszalin,zachodniopomorskie,Zachód,Agency,2016-10-31
+102,Oddział 102,Toruń,kujawsko-pomorskie,Centrum,Agency,2004-10-24
+103,Oddział 103,Radom,mazowieckie,Centrum,Agency,2016-07-28
+104,Oddział 104,Bielsko-Biała,śląskie,Południe,Agency,2011-01-14
+105,Oddział 105,Sopot,pomorskie,Północ,Partner Point,2024-09-07
+106,Oddział 106,Gdynia,pomorskie,Północ,Partner Point,2003-10-01
+107,Oddział 107,Łódź,łódzkie,Centrum,Broker Office,2019-01-06
+108,Oddział 108,Lublin,lubelskie,Wschód,Direct Sales Office,2022-12-11
+109,Oddział 109,Wałbrzych,dolnośląskie,Południowy Zachód,Broker Office,2024-06-28
+110,Oddział 110,Przemyśl,podkarpackie,Południe,Agency,2022-02-21
+111,Oddział 111,Zielona Góra,lubuskie,Zachód,Agency,2021-05-15
+112,Oddział 112,Wrocław,dolnośląskie,Południowy Zachód,Direct Sales Office,2005-05-10
+113,Oddział 113,Gorzów Wielkopolski,lubuskie,Zachód,Agency,2007-12-24
+114,Oddział 114,Tarnów,małopolskie,Południe,Direct Sales Office,2006-03-29
+115,Oddział 115,Gorzów Wielkopolski,lubuskie,Zachód,Agency,2023-05-20
+116,Oddział 116,Warszawa,mazowieckie,Centrum,Partner Point,2011-09-25
+117,Oddział 117,Gdańsk,pomorskie,Północ,Agency,2021-07-20
+118,Oddział 118,Łomża,podlaskie,Północ,Broker Office,2013-12-08
+119,Oddział 119,Poznań,wielkopolskie,Zachód,Agency,2024-02-13
+120,Oddział 120,Łomża,podlaskie,Północ,Partner Point,2012-01-06
+121,Oddział 121,Gdańsk,pomorskie,Północ,Direct Sales Office,2022-11-29
+122,Oddział 122,Pabianice,łódzkie,Centrum,Agency,2017-02-16
+123,Oddział 123,Zamość,lubelskie,Wschód,Agency,2016-07-29
+124,Oddział 124,Opole,opolskie,Południowy Zachód,Broker Office,2015-02-11
+125,Oddział 125,Elbląg,warmińsko-mazurskie,Północ,Agency,2009-03-06
+126,Oddział 126,Olsztyn,warmińsko-mazurskie,Północ,Broker Office,2019-10-27
+127,Oddział 127,Zamość,lubelskie,Wschód,Agency,2019-01-12
+128,Oddział 128,Piotrków Trybunalski,łódzkie,Centrum,Broker Office,2010-08-18
+129,Oddział 129,Radom,mazowieckie,Centrum,Agency,2008-02-04
+130,Oddział 130,Toruń,kujawsko-pomorskie,Centrum,Partner Point,2002-04-22
+131,Oddział 131,Krosno,podkarpackie,Południe,Agency,2003-04-07
+132,Oddział 132,Kędzierzyn-Koźle,opolskie,Południowy Zachód,Agency,2006-10-21
+133,Oddział 133,Chełm,lubelskie,Wschód,Direct Sales Office,2021-05-09
+134,Oddział 134,Tarnów,małopolskie,Południe,Agency,2013-06-21
+135,Oddział 135,Ełk,warmińsko-mazurskie,Północ,Agency,2007-06-19
+136,Oddział 136,Kraków,małopolskie,Południe,Partner Point,2013-11-26
+137,Oddział 137,Szczecin,zachodniopomorskie,Zachód,Agency,2024-03-19
+138,Oddział 138,Lublin,lubelskie,Wschód,Broker Office,2021-04-14
+139,Oddział 139,Kielce,świętokrzyskie,Południe,Agency,2018-07-16
+140,Oddział 140,Gliwice,śląskie,Południe,Agency,2005-10-12
+141,Oddział 141,Kraków,małopolskie,Południe,Direct Sales Office,2007-03-21
+142,Oddział 142,Poznań,wielkopolskie,Zachód,Broker Office,2010-03-14
+143,Oddział 143,Zamość,lubelskie,Wschód,Agency,2022-03-31
+144,Oddział 144,Tarnów,małopolskie,Południe,Broker Office,2011-05-22
+145,Oddział 145,Wałbrzych,dolnośląskie,Południowy Zachód,Direct Sales Office,2015-04-08
+146,Oddział 146,Białystok,podlaskie,Północ,Agency,2016-11-17
+147,Oddział 147,Zielona Góra,lubuskie,Zachód,Direct Sales Office,2021-02-04
+148,Oddział 148,Zamość,lubelskie,Wschód,Broker Office,2013-09-19
+149,Oddział 149,Piła,wielkopolskie,Zachód,Partner Point,2007-09-29
+150,Oddział 150,Częstochowa,śląskie,Południe,Agency,2020-01-07
+151,Oddział 151,Nowy Sącz,małopolskie,Południe,Direct Sales Office,2000-10-29
+152,Oddział 152,Tarnów,małopolskie,Południe,Agency,2006-03-06
+153,Oddział 153,Częstochowa,śląskie,Południe,Agency,2009-04-10
+154,Oddział 154,Opole,opolskie,Południowy Zachód,Agency,2008-12-05
+155,Oddział 155,Gliwice,śląskie,Południe,Partner Point,2021-04-13
+156,Oddział 156,Ełk,warmińsko-mazurskie,Północ,Broker Office,2019-04-03
+157,Oddział 157,Elbląg,warmińsko-mazurskie,Północ,Agency,2022-01-22
+158,Oddział 158,Kielce,świętokrzyskie,Południe,Agency,2019-11-21
+159,Oddział 159,Kraków,małopolskie,Południe,Agency,2004-10-02
+160,Oddział 160,Chełm,lubelskie,Wschód,Direct Sales Office,2010-02-28
+161,Oddział 161,Gorzów Wielkopolski,lubuskie,Zachód,Agency,2021-01-07
+162,Oddział 162,Zielona Góra,lubuskie,Zachód,Agency,2010-10-16
+163,Oddział 163,Kielce,świętokrzyskie,Południe,Agency,2003-03-20
+164,Oddział 164,Częstochowa,śląskie,Południe,Direct Sales Office,2020-03-28
+165,Oddział 165,Kędzierzyn-Koźle,opolskie,Południowy Zachód,Direct Sales Office,2016-02-14
+166,Oddział 166,Kędzierzyn-Koźle,opolskie,Południowy Zachód,Agency,2013-08-19
+167,Oddział 167,Koszalin,zachodniopomorskie,Zachód,Broker Office,2006-08-27
+168,Oddział 168,Kielce,świętokrzyskie,Południe,Partner Point,2024-11-15
+169,Oddział 169,Wrocław,dolnośląskie,Południowy Zachód,Broker Office,2012-06-27
+170,Oddział 170,Zamość,lubelskie,Wschód,Broker Office,2001-05-13
+171,Oddział 171,Szczecin,zachodniopomorskie,Zachód,Agency,2022-01-05
+172,Oddział 172,Sopot,pomorskie,Północ,Agency,2018-03-25
+173,Oddział 173,Piotrków Trybunalski,łódzkie,Centrum,Agency,2003-08-14
+174,Oddział 174,Wałbrzych,dolnośląskie,Południowy Zachód,Direct Sales Office,2007-09-19
+175,Oddział 175,Suwałki,podlaskie,Północ,Direct Sales Office,2020-05-25
+176,Oddział 176,Białystok,podlaskie,Północ,Direct Sales Office,2015-07-14
+177,Oddział 177,Lublin,lubelskie,Wschód,Agency,2000-07-21
+178,Oddział 178,Opole,opolskie,Południowy Zachód,Partner Point,2002-10-31
+179,Oddział 179,Bydgoszcz,kujawsko-pomorskie,Centrum,Direct Sales Office,2014-02-05
+180,Oddział 180,Koszalin,zachodniopomorskie,Zachód,Broker Office,2012-05-21
+181,Oddział 181,Łódź,łódzkie,Centrum,Agency,2002-03-08
+182,Oddział 182,Rzeszów,podkarpackie,Południe,Direct Sales Office,2023-06-27
+183,Oddział 183,Włocławek,kujawsko-pomorskie,Centrum,Agency,2004-06-16
+184,Oddział 184,Konin,wielkopolskie,Zachód,Direct Sales Office,2009-09-06
+185,Oddział 185,Bydgoszcz,kujawsko-pomorskie,Centrum,Partner Point,2013-05-03
+186,Oddział 186,Kielce,świętokrzyskie,Południe,Agency,2007-12-03
+187,Oddział 187,Olsztyn,warmińsko-mazurskie,Północ,Agency,2009-12-12
+188,Oddział 188,Koszalin,zachodniopomorskie,Zachód,Broker Office,2015-03-31
+189,Oddział 189,Nowy Sącz,małopolskie,Południe,Agency,2004-07-17
+190,Oddział 190,Łomża,podlaskie,Północ,Broker Office,2003-07-11
+191,Oddział 191,Płock,mazowieckie,Centrum,Partner Point,2004-10-05
+192,Oddział 192,Piła,wielkopolskie,Zachód,Agency,2015-06-29
+193,Oddział 193,Lublin,lubelskie,Wschód,Agency,2020-02-16
+194,Oddział 194,Kołobrzeg,zachodniopomorskie,Zachód,Broker Office,2018-03-06
+195,Oddział 195,Lublin,lubelskie,Wschód,Broker Office,2012-05-09
+196,Oddział 196,Koszalin,zachodniopomorskie,Zachód,Direct Sales Office,2022-11-05
+197,Oddział 197,Gliwice,śląskie,Południe,Agency,2007-10-14
+198,Oddział 198,Wałbrzych,dolnośląskie,Południowy Zachód,Agency,2004-05-05
+199,Oddział 199,Elbląg,warmińsko-mazurskie,Północ,Direct Sales Office,2001-11-28
+200,Oddział 200,Katowice,śląskie,Południe,Agency,2010-10-06
+201,Oddział 201,Toruń,kujawsko-pomorskie,Centrum,Broker Office,2013-08-20
+202,Oddział 202,Kraków,małopolskie,Południe,Agency,2024-05-17
+203,Oddział 203,Zamość,lubelskie,Wschód,Agency,2011-11-30
+204,Oddział 204,Sopot,pomorskie,Północ,Agency,2017-11-11
+205,Oddział 205,Legnica,dolnośląskie,Południowy Zachód,Direct Sales Office,2000-11-10
+206,Oddział 206,Jelenia Góra,dolnośląskie,Południowy Zachód,Partner Point,2016-02-04
+207,Oddział 207,Wrocław,dolnośląskie,Południowy Zachód,Agency,2021-12-08
+208,Oddział 208,Toruń,kujawsko-pomorskie,Centrum,Agency,2021-11-21
+209,Oddział 209,Łomża,podlaskie,Północ,Direct Sales Office,2014-07-21
+210,Oddział 210,Piotrków Trybunalski,łódzkie,Centrum,Agency,2018-12-17
+211,Oddział 211,Kędzierzyn-Koźle,opolskie,Południowy Zachód,Broker Office,2015-06-09
+212,Oddział 212,Zamość,lubelskie,Wschód,Agency,2010-08-20
+213,Oddział 213,Zielona Góra,lubuskie,Zachód,Broker Office,2000-09-04
+214,Oddział 214,Wałbrzych,dolnośląskie,Południowy Zachód,Agency,2009-05-11
+215,Oddział 215,Piła,wielkopolskie,Zachód,Agency,2009-05-16
+216,Oddział 216,Rzeszów,podkarpackie,Południe,Direct Sales Office,2010-08-10
+217,Oddział 217,Bydgoszcz,kujawsko-pomorskie,Centrum,Broker Office,2009-05-21
+218,Oddział 218,Rzeszów,podkarpackie,Południe,Direct Sales Office,2018-07-07
+219,Oddział 219,Opole,opolskie,Południowy Zachód,Broker Office,2012-11-20
+220,Oddział 220,Gdynia,pomorskie,Północ,Broker Office,2015-11-21
+221,Oddział 221,Olsztyn,warmińsko-mazurskie,Północ,Agency,2017-07-20
+222,Oddział 222,Gdynia,pomorskie,Północ,Agency,2023-09-18
+223,Oddział 223,Siedlce,mazowieckie,Centrum,Agency,2003-10-25
+224,Oddział 224,Opole,opolskie,Południowy Zachód,Agency,2007-04-13
+225,Oddział 225,Bydgoszcz,kujawsko-pomorskie,Centrum,Partner Point,2014-02-25
+226,Oddział 226,Tarnów,małopolskie,Południe,Broker Office,2006-01-02
+227,Oddział 227,Kołobrzeg,zachodniopomorskie,Zachód,Agency,2006-12-06
+228,Oddział 228,Elbląg,warmińsko-mazurskie,Północ,Broker Office,2010-05-14
+229,Oddział 229,Bielsko-Biała,śląskie,Południe,Direct Sales Office,2004-06-24
+230,Oddział 230,Kielce,świętokrzyskie,Południe,Direct Sales Office,2019-06-07
+231,Oddział 231,Opole,opolskie,Południowy Zachód,Broker Office,2011-02-15
+232,Oddział 232,Toruń,kujawsko-pomorskie,Centrum,Partner Point,2023-05-24
+233,Oddział 233,Rzeszów,podkarpackie,Południe,Partner Point,2024-02-03
+234,Oddział 234,Elbląg,warmińsko-mazurskie,Północ,Broker Office,2024-01-07
+235,Oddział 235,Gorzów Wielkopolski,lubuskie,Zachód,Agency,2011-11-18
+236,Oddział 236,Białystok,podlaskie,Północ,Agency,2010-04-10
+237,Oddział 237,Piła,wielkopolskie,Zachód,Agency,2020-05-02
+238,Oddział 238,Sopot,pomorskie,Północ,Broker Office,2023-01-04
+239,Oddział 239,Katowice,śląskie,Południe,Agency,2021-06-25
+240,Oddział 240,Tarnów,małopolskie,Południe,Agency,2013-12-31
+241,Oddział 241,Konin,wielkopolskie,Zachód,Partner Point,2011-11-02
+242,Oddział 242,Radom,mazowieckie,Centrum,Broker Office,2001-02-17
+243,Oddział 243,Gorzów Wielkopolski,lubuskie,Zachód,Agency,2023-09-27
+244,Oddział 244,Łomża,podlaskie,Północ,Broker Office,2018-09-16
+245,Oddział 245,Krosno,podkarpackie,Południe,Direct Sales Office,2022-08-16
+246,Oddział 246,Opole,opolskie,Południowy Zachód,Partner Point,2022-10-02
+247,Oddział 247,Wrocław,dolnośląskie,Południowy Zachód,Broker Office,2023-05-16
+248,Oddział 248,Radom,mazowieckie,Centrum,Broker Office,2016-10-15
+249,Oddział 249,Rzeszów,podkarpackie,Południe,Agency,2003-09-03
+250,Oddział 250,Zielona Góra,lubuskie,Zachód,Agency,2007-07-18
+251,Oddział 251,Opole,opolskie,Południowy Zachód,Agency,2009-03-06
+252,Oddział 252,Kędzierzyn-Koźle,opolskie,Południowy Zachód,Direct Sales Office,2003-02-28
+253,Oddział 253,Szczecin,zachodniopomorskie,Zachód,Agency,2007-08-18
+254,Oddział 254,Kalisz,wielkopolskie,Zachód,Direct Sales Office,2021-03-20
+255,Oddział 255,Katowice,śląskie,Południe,Agency,2005-04-18
+256,Oddział 256,Ełk,warmińsko-mazurskie,Północ,Broker Office,2010-03-10
+257,Oddział 257,Łódź,łódzkie,Centrum,Broker Office,2004-02-10
+258,Oddział 258,Elbląg,warmińsko-mazurskie,Północ,Direct Sales Office,2006-09-22
+259,Oddział 259,Ełk,warmińsko-mazurskie,Północ,Agency,2022-03-18
+260,Oddział 260,Zielona Góra,lubuskie,Zachód,Broker Office,2006-09-13
+261,Oddział 261,Kędzierzyn-Koźle,opolskie,Południowy Zachód,Agency,2013-06-06
+262,Oddział 262,Jelenia Góra,dolnośląskie,Południowy Zachód,Partner Point,2011-04-08
+263,Oddział 263,Zamość,lubelskie,Wschód,Agency,2019-10-13
+264,Oddział 264,Siedlce,mazowieckie,Centrum,Partner Point,2014-02-25
+265,Oddział 265,Kołobrzeg,zachodniopomorskie,Zachód,Agency,2005-10-02
+266,Oddział 266,Białystok,podlaskie,Północ,Agency,2000-03-20
+267,Oddział 267,Płock,mazowieckie,Centrum,Agency,2004-01-19
+268,Oddział 268,Ełk,warmińsko-mazurskie,Północ,Partner Point,2022-08-13
+269,Oddział 269,Kalisz,wielkopolskie,Zachód,Broker Office,2000-07-31
+270,Oddział 270,Katowice,śląskie,Południe,Agency,2008-10-09
+271,Oddział 271,Częstochowa,śląskie,Południe,Direct Sales Office,2023-10-05
+272,Oddział 272,Białystok,podlaskie,Północ,Agency,2017-01-25
+273,Oddział 273,Bydgoszcz,kujawsko-pomorskie,Centrum,Agency,2014-12-20
+274,Oddział 274,Kędzierzyn-Koźle,opolskie,Południowy Zachód,Direct Sales Office,2011-12-21
+275,Oddział 275,Zielona Góra,lubuskie,Zachód,Broker Office,2020-10-19
+276,Oddział 276,Wałbrzych,dolnośląskie,Południowy Zachód,Broker Office,2008-12-23
+277,Oddział 277,Sopot,pomorskie,Północ,Broker Office,2010-03-06
+278,Oddział 278,Gdynia,pomorskie,Północ,Agency,2016-10-25
+279,Oddział 279,Chełm,lubelskie,Wschód,Agency,2004-03-06
+280,Oddział 280,Kielce,świętokrzyskie,Południe,Partner Point,2023-06-05
+281,Oddział 281,Siedlce,mazowieckie,Centrum,Direct Sales Office,2003-06-17
+282,Oddział 282,Olsztyn,warmińsko-mazurskie,Północ,Agency,2018-07-30
+283,Oddział 283,Legnica,dolnośląskie,Południowy Zachód,Partner Point,2024-04-29
+284,Oddział 284,Ostrowiec Świętokrzyski,świętokrzyskie,Południe,Agency,2023-07-15
+285,Oddział 285,Płock,mazowieckie,Centrum,Direct Sales Office,2015-05-19
+286,Oddział 286,Łomża,podlaskie,Północ,Direct Sales Office,2018-09-15
+287,Oddział 287,Wrocław,dolnośląskie,Południowy Zachód,Direct Sales Office,2022-11-01
+288,Oddział 288,Kołobrzeg,zachodniopomorskie,Zachód,Agency,2024-03-16
+289,Oddział 289,Toruń,kujawsko-pomorskie,Centrum,Agency,2003-01-22
+290,Oddział 290,Legnica,dolnośląskie,Południowy Zachód,Broker Office,2003-11-29
+291,Oddział 291,Łomża,podlaskie,Północ,Direct Sales Office,2017-08-24
+292,Oddział 292,Toruń,kujawsko-pomorskie,Centrum,Broker Office,2009-02-21
+293,Oddział 293,Włocławek,kujawsko-pomorskie,Centrum,Agency,2008-03-04
+294,Oddział 294,Krosno,podkarpackie,Południe,Agency,2004-12-05
+295,Oddział 295,Przemyśl,podkarpackie,Południe,Agency,2004-03-05
+296,Oddział 296,Rzeszów,podkarpackie,Południe,Broker Office,2016-03-29
+297,Oddział 297,Przemyśl,podkarpackie,Południe,Broker Office,2021-12-23
+298,Oddział 298,Opole,opolskie,Południowy Zachód,Partner Point,2021-05-03
+299,Oddział 299,Krosno,podkarpackie,Południe,Direct Sales Office,2002-07-13
+300,Oddział 300,Wałbrzych,dolnośląskie,Południowy Zachód,Partner Point,2015-08-28
+301,Oddział 301,Poznań,wielkopolskie,Zachód,Broker Office,2009-07-28
+302,Oddział 302,Bydgoszcz,kujawsko-pomorskie,Centrum,Agency,2018-06-02
+303,Oddział 303,Poznań,wielkopolskie,Zachód,Agency,2022-08-18
+304,Oddział 304,Częstochowa,śląskie,Południe,Broker Office,2011-03-15
+305,Oddział 305,Siedlce,mazowieckie,Centrum,Agency,2021-08-06
+306,Oddział 306,Olsztyn,warmińsko-mazurskie,Północ,Agency,2023-12-28
+307,Oddział 307,Przemyśl,podkarpackie,Południe,Broker Office,2001-01-23
+308,Oddział 308,Gliwice,śląskie,Południe,Direct Sales Office,2006-08-24
+309,Oddział 309,Przemyśl,podkarpackie,Południe,Partner Point,2010-02-24
+310,Oddział 310,Gdynia,pomorskie,Północ,Partner Point,2014-04-23
+311,Oddział 311,Kielce,świętokrzyskie,Południe,Agency,2006-06-15
+312,Oddział 312,Kielce,świętokrzyskie,Południe,Partner Point,2012-12-28
+313,Oddział 313,Ostrowiec Świętokrzyski,świętokrzyskie,Południe,Agency,2000-05-18
+314,Oddział 314,Konin,wielkopolskie,Zachód,Agency,2007-08-05
+315,Oddział 315,Legnica,dolnośląskie,Południowy Zachód,Agency,2002-02-20
+316,Oddział 316,Piotrków Trybunalski,łódzkie,Centrum,Agency,2010-11-08
+317,Oddział 317,Przemyśl,podkarpackie,Południe,Partner Point,2004-12-18
+318,Oddział 318,Płock,mazowieckie,Centrum,Agency,2017-04-28
+319,Oddział 319,Gdynia,pomorskie,Północ,Agency,2020-10-30
+320,Oddział 320,Wrocław,dolnośląskie,Południowy Zachód,Broker Office,2012-04-28
+321,Oddział 321,Gliwice,śląskie,Południe,Agency,2014-06-02
+322,Oddział 322,Legnica,dolnośląskie,Południowy Zachód,Agency,2005-09-11
+323,Oddział 323,Kraków,małopolskie,Południe,Broker Office,2012-07-17
+324,Oddział 324,Koszalin,zachodniopomorskie,Zachód,Direct Sales Office,2013-08-18
+325,Oddział 325,Białystok,podlaskie,Północ,Agency,2004-01-09
+326,Oddział 326,Szczecin,zachodniopomorskie,Zachód,Direct Sales Office,2019-06-09
+327,Oddział 327,Łomża,podlaskie,Północ,Agency,2006-07-28
+328,Oddział 328,Gdańsk,pomorskie,Północ,Direct Sales Office,2009-06-25
+329,Oddział 329,Przemyśl,podkarpackie,Południe,Broker Office,2010-01-09
+330,Oddział 330,Kołobrzeg,zachodniopomorskie,Zachód,Agency,2022-07-20
+331,Oddział 331,Płock,mazowieckie,Centrum,Agency,2000-12-01
+332,Oddział 332,Suwałki,podlaskie,Północ,Broker Office,2012-11-23
+333,Oddział 333,Łódź,łódzkie,Centrum,Agency,2014-08-17
+334,Oddział 334,Toruń,kujawsko-pomorskie,Centrum,Agency,2010-03-17
+335,Oddział 335,Bydgoszcz,kujawsko-pomorskie,Centrum,Direct Sales Office,2015-07-09
+336,Oddział 336,Częstochowa,śląskie,Południe,Broker Office,2007-07-14
+337,Oddział 337,Rzeszów,podkarpackie,Południe,Broker Office,2013-02-26
+338,Oddział 338,Piła,wielkopolskie,Zachód,Direct Sales Office,2010-05-21
+339,Oddział 339,Konin,wielkopolskie,Zachód,Direct Sales Office,2012-08-05
+340,Oddział 340,Piła,wielkopolskie,Zachód,Agency,2018-11-05
+341,Oddział 341,Toruń,kujawsko-pomorskie,Centrum,Partner Point,2010-07-22
+342,Oddział 342,Ełk,warmińsko-mazurskie,Północ,Agency,2019-01-10
+343,Oddział 343,Ostrowiec Świętokrzyski,świętokrzyskie,Południe,Partner Point,2012-09-25
+344,Oddział 344,Sopot,pomorskie,Północ,Agency,2021-02-20
+345,Oddział 345,Gliwice,śląskie,Południe,Agency,2018-02-01
+346,Oddział 346,Lublin,lubelskie,Wschód,Partner Point,2007-06-22
+347,Oddział 347,Elbląg,warmińsko-mazurskie,Północ,Agency,2002-05-10
+348,Oddział 348,Opole,opolskie,Południowy Zachód,Broker Office,2023-01-05
+349,Oddział 349,Częstochowa,śląskie,Południe,Broker Office,2002-05-27
+350,Oddział 350,Radom,mazowieckie,Centrum,Agency,2004-06-30
+351,Oddział 351,Chełm,lubelskie,Wschód,Direct Sales Office,2015-05-30
+352,Oddział 352,Suwałki,podlaskie,Północ,Broker Office,2002-09-26
+353,Oddział 353,Ostrowiec Świętokrzyski,świętokrzyskie,Południe,Agency,2020-02-22
+354,Oddział 354,Sopot,pomorskie,Północ,Agency,2014-02-15
+355,Oddział 355,Łomża,podlaskie,Północ,Agency,2024-05-22
+356,Oddział 356,Bielsko-Biała,śląskie,Południe,Partner Point,2007-07-06
+357,Oddział 357,Gorzów Wielkopolski,lubuskie,Zachód,Broker Office,2024-08-31
+358,Oddział 358,Wałbrzych,dolnośląskie,Południowy Zachód,Direct Sales Office,2010-04-03
+359,Oddział 359,Kielce,świętokrzyskie,Południe,Direct Sales Office,2016-06-06
+360,Oddział 360,Konin,wielkopolskie,Zachód,Broker Office,2005-06-24
+361,Oddział 361,Opole,opolskie,Południowy Zachód,Agency,2002-11-27
+362,Oddział 362,Krosno,podkarpackie,Południe,Partner Point,2021-07-02
+363,Oddział 363,Wałbrzych,dolnośląskie,Południowy Zachód,Agency,2023-02-05
+364,Oddział 364,Tarnów,małopolskie,Południe,Agency,2009-06-05
+365,Oddział 365,Warszawa,mazowieckie,Centrum,Broker Office,2001-10-12
+366,Oddział 366,Olsztyn,warmińsko-mazurskie,Północ,Agency,2021-01-11
+367,Oddział 367,Katowice,śląskie,Południe,Broker Office,2004-12-26
+368,Oddział 368,Radom,mazowieckie,Centrum,Partner Point,2011-06-16
+369,Oddział 369,Płock,mazowieckie,Centrum,Direct Sales Office,2000-04-17
+370,Oddział 370,Piotrków Trybunalski,łódzkie,Centrum,Partner Point,2018-06-27
+371,Oddział 371,Gorzów Wielkopolski,lubuskie,Zachód,Partner Point,2013-05-15
+372,Oddział 372,Zielona Góra,lubuskie,Zachód,Direct Sales Office,2020-03-13
+373,Oddział 373,Piła,wielkopolskie,Zachód,Agency,2016-10-25
+374,Oddział 374,Gliwice,śląskie,Południe,Agency,2007-09-20
+375,Oddział 375,Zielona Góra,lubuskie,Zachód,Agency,2005-02-11
+376,Oddział 376,Kalisz,wielkopolskie,Zachód,Broker Office,2013-02-06
+377,Oddział 377,Gdańsk,pomorskie,Północ,Agency,2022-06-28
+378,Oddział 378,Gorzów Wielkopolski,lubuskie,Zachód,Broker Office,2002-02-22
+379,Oddział 379,Olsztyn,warmińsko-mazurskie,Północ,Agency,2010-09-22
+380,Oddział 380,Wałbrzych,dolnośląskie,Południowy Zachód,Broker Office,2015-05-08
+381,Oddział 381,Kalisz,wielkopolskie,Zachód,Broker Office,2007-09-18
+382,Oddział 382,Suwałki,podlaskie,Północ,Agency,2012-08-21
+383,Oddział 383,Nowy Sącz,małopolskie,Południe,Broker Office,2007-12-25
+384,Oddział 384,Piotrków Trybunalski,łódzkie,Centrum,Broker Office,2024-04-01
+385,Oddział 385,Szczecin,zachodniopomorskie,Zachód,Broker Office,2020-01-14
+386,Oddział 386,Gdańsk,pomorskie,Północ,Agency,2006-05-13
+387,Oddział 387,Bydgoszcz,kujawsko-pomorskie,Centrum,Broker Office,2011-01-28
+388,Oddział 388,Kielce,świętokrzyskie,Południe,Agency,2009-03-09
+389,Oddział 389,Olsztyn,warmińsko-mazurskie,Północ,Agency,2019-08-29
+390,Oddział 390,Wałbrzych,dolnośląskie,Południowy Zachód,Broker Office,2005-06-28
+391,Oddział 391,Gdańsk,pomorskie,Północ,Partner Point,2007-01-25
+392,Oddział 392,Białystok,podlaskie,Północ,Broker Office,2017-02-18
+393,Oddział 393,Opole,opolskie,Południowy Zachód,Partner Point,2000-03-15
+394,Oddział 394,Słupsk,pomorskie,Północ,Broker Office,2000-10-26
+395,Oddział 395,Katowice,śląskie,Południe,Direct Sales Office,2013-05-11
+396,Oddział 396,Ostrowiec Świętokrzyski,świętokrzyskie,Południe,Partner Point,2020-04-26
+397,Oddział 397,Chełm,lubelskie,Wschód,Broker Office,2016-12-18
+398,Oddział 398,Gliwice,śląskie,Południe,Partner Point,2014-08-29
+399,Oddział 399,Nowy Sącz,małopolskie,Południe,Agency,2008-11-20
+400,Oddział 400,Ostrowiec Świętokrzyski,świętokrzyskie,Południe,Agency,2008-06-24
+401,Oddział 401,Łomża,podlaskie,Północ,Broker Office,2015-05-05
+402,Oddział 402,Piła,wielkopolskie,Zachód,Partner Point,2017-12-19
+403,Oddział 403,Tarnów,małopolskie,Południe,Agency,2019-05-15
+404,Oddział 404,Bielsko-Biała,śląskie,Południe,Agency,2013-05-22
+405,Oddział 405,Piotrków Trybunalski,łódzkie,Centrum,Broker Office,2012-04-06
+406,Oddział 406,Siedlce,mazowieckie,Centrum,Agency,2008-08-15
+407,Oddział 407,Opole,opolskie,Południowy Zachód,Partner Point,2016-05-17
+408,Oddział 408,Kielce,świętokrzyskie,Południe,Broker Office,2006-05-03
+409,Oddział 409,Radom,mazowieckie,Centrum,Partner Point,2008-12-05
+410,Oddział 410,Ełk,warmińsko-mazurskie,Północ,Direct Sales Office,2024-11-14
+411,Oddział 411,Piła,wielkopolskie,Zachód,Broker Office,2000-11-23
+412,Oddział 412,Zielona Góra,lubuskie,Zachód,Direct Sales Office,2002-02-17
+413,Oddział 413,Lublin,lubelskie,Wschód,Agency,2010-06-12
+414,Oddział 414,Piła,wielkopolskie,Zachód,Agency,2024-01-06
+415,Oddział 415,Gorzów Wielkopolski,lubuskie,Zachód,Agency,2013-10-06
+416,Oddział 416,Kędzierzyn-Koźle,opolskie,Południowy Zachód,Partner Point,2008-06-19
+417,Oddział 417,Rzeszów,podkarpackie,Południe,Broker Office,2010-02-20
+418,Oddział 418,Olsztyn,warmińsko-mazurskie,Północ,Direct Sales Office,2009-11-22
+419,Oddział 419,Olsztyn,warmińsko-mazurskie,Północ,Agency,2015-06-02
+420,Oddział 420,Białystok,podlaskie,Północ,Agency,2013-07-14

@@ -1,0 +1,49 @@
+Product ID,Product Category,Product Subcategory,Product Name,Product Variant,Risk Class,Is Mandatory
+1,Komunikacyjne,OC,OC Premium,Premium,Medium,Yes
+2,Komunikacyjne,OC,OC Max,Max,Low,Yes
+3,Komunikacyjne,AC,AC Standard,Standard,Medium,No
+4,Komunikacyjne,AC,AC Max,Max,High,No
+5,Komunikacyjne,Assistance,Assistance Max,Max,Low,No
+6,Komunikacyjne,Assistance,Assistance Premium,Premium,Medium,No
+7,Komunikacyjne,NNW kierowcy i pasażerów,NNW kierowcy i pasażerów Premium,Premium,Medium,No
+8,Komunikacyjne,NNW kierowcy i pasażerów,NNW kierowcy i pasażerów Standard,Standard,Low,No
+9,Majątkowe,Dom,Dom Premium,Premium,Medium,No
+10,Majątkowe,Dom,Dom Standard,Standard,Low,No
+11,Majątkowe,Mieszkanie,Mieszkanie Standard,Standard,Low,No
+12,Majątkowe,Mieszkanie,Mieszkanie Premium,Premium,Low,No
+13,Majątkowe,Dom letniskowy,Dom letniskowy Standard,Standard,Medium,No
+14,Majątkowe,Dom letniskowy,Dom letniskowy Max,Max,Low,No
+15,Majątkowe,Ruchomości domowe,Ruchomości domowe Max,Max,High,No
+16,Majątkowe,Ruchomości domowe,Ruchomości domowe Standard,Standard,Low,No
+17,Podróżne,Podróż indywidualna,Podróż indywidualna Max,Max,Low,No
+18,Podróżne,Podróż indywidualna,Podróż indywidualna Premium,Premium,Medium,No
+19,Podróżne,Podróż służbowa,Podróż służbowa Max,Max,High,No
+20,Podróżne,Podróż służbowa,Podróż służbowa Standard,Standard,Medium,No
+21,Podróżne,Sport i rekreacja,Sport i rekreacja Standard,Standard,Medium,No
+22,Podróżne,Sport i rekreacja,Sport i rekreacja Max,Max,Low,No
+23,Zdrowotne,ERGO Zdrowie,ERGO Zdrowie Standard,Standard,Medium,No
+24,Zdrowotne,ERGO Zdrowie,ERGO Zdrowie Premium,Premium,High,No
+25,Zdrowotne,Pakiet ambulatoryjny,Pakiet ambulatoryjny Max,Max,Low,No
+26,Zdrowotne,Pakiet ambulatoryjny,Pakiet ambulatoryjny Standard,Standard,High,No
+27,Zdrowotne,Pakiet rodzinny,Pakiet rodzinny Max,Max,Low,No
+28,Zdrowotne,Pakiet rodzinny,Pakiet rodzinny Standard,Standard,Medium,No
+29,Firmowe,OC działalności,OC działalności Max,Max,Medium,No
+30,Firmowe,OC działalności,OC działalności Standard,Standard,Medium,No
+31,Firmowe,Majątek firmy,Majątek firmy Premium,Premium,Low,No
+32,Firmowe,Majątek firmy,Majątek firmy Standard,Standard,High,No
+33,Firmowe,Flota,Flota Max,Max,Medium,No
+34,Firmowe,Flota,Flota Standard,Standard,Medium,No
+35,Firmowe,Maszyny i urządzenia,Maszyny i urządzenia Premium,Premium,Medium,No
+36,Firmowe,Maszyny i urządzenia,Maszyny i urządzenia Max,Max,High,No
+37,Firmowe,Fotowoltaika,Fotowoltaika Standard,Standard,Medium,No
+38,Firmowe,Fotowoltaika,Fotowoltaika Max,Max,High,No
+39,Finansowe,Gwarancje ubezpieczeniowe,Gwarancje ubezpieczeniowe Standard,Standard,Low,No
+40,Finansowe,Gwarancje ubezpieczeniowe,Gwarancje ubezpieczeniowe Max,Max,Medium,No
+41,Finansowe,Kredyt kupiecki,Kredyt kupiecki Premium,Premium,Low,No
+42,Finansowe,Kredyt kupiecki,Kredyt kupiecki Standard,Standard,High,No
+43,Życiowe,Życie indywidualne,Życie indywidualne Standard,Standard,Low,No
+44,Życiowe,Życie indywidualne,Życie indywidualne Max,Max,Medium,No
+45,Życiowe,Życie grupowe,Życie grupowe Standard,Standard,Medium,No
+46,Życiowe,Życie grupowe,Życie grupowe Max,Max,Low,No
+47,Życiowe,NNW,NNW Max,Max,High,No
+48,Życiowe,NNW,NNW Premium,Premium,Low,No
